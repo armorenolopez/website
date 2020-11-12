@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cursos y Certificaciones on titulo</title>
+    <link>https://arturo-moreno.dev/es/courses/</link>
+    <description>Recent content in Cursos y Certificaciones on titulo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-mx</language>
+    <copyright>Derechos reservados © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved</copyright>
+    <lastBuildDate>Sun, 01 Feb 2015 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="https://arturo-moreno.dev/es/courses/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project Management Professional (PMP)</title>
+      <link>https://arturo-moreno.dev/es/courses/pmp/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 -0600</pubDate>
+      
+      <guid>https://arturo-moreno.dev/es/courses/pmp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Basics of Supply Chain Management (BSCM) Module</title>
+      <link>https://arturo-moreno.dev/es/courses/bscm/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://arturo-moreno.dev/es/courses/bscm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scrum Master</title>
+      <link>https://arturo-moreno.dev/es/courses/scrummaster/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 -0600</pubDate>
+      
+      <guid>https://arturo-moreno.dev/es/courses/scrummaster/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

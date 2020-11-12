@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Habilidades on title</title>
+    <link>https://arturo-moreno.dev/en/skills/</link>
+    <description>Recent content in Habilidades on title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    
+	<atom:link href="https://arturo-moreno.dev/en/skills/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Programing Languages and Frameworks</title>
+      <link>https://arturo-moreno.dev/en/skills/programminglanguages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/programminglanguages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Databases</title>
+      <link>https://arturo-moreno.dev/en/skills/databases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/databases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development Tools and Operative Systems</title>
+      <link>https://arturo-moreno.dev/en/skills/developmenttools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/developmenttools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agile Methodologies</title>
+      <link>https://arturo-moreno.dev/en/skills/methodologies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/methodologies/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

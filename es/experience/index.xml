@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiencia on titulo</title>
+    <link>https://arturo-moreno.dev/es/experience/</link>
+    <description>Recent content in Experiencia on titulo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-mx</language>
+    <copyright>Derechos reservados © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved</copyright>
+    <lastBuildDate>Wed, 16 Sep 2020 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://arturo-moreno.dev/es/experience/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Desarrollador de Software Fullstack en C#.Net</title>
+      <link>https://arturo-moreno.dev/es/experience/Arkusnexus/MindTeams/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://arturo-moreno.dev/es/experience/Arkusnexus/MindTeams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Desarrollador de Software Fullstack en C#.Net</title>
+      <link>https://arturo-moreno.dev/es/experience/Arkusnexus/Confie/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://arturo-moreno.dev/es/experience/Arkusnexus/Confie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Desarrollador Backend en Java</title>
+      <link>https://arturo-moreno.dev/es/experience/Arkusnexus/Semantic/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://arturo-moreno.dev/es/experience/Arkusnexus/Semantic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consultor de Sistemas en AspNet</title>
+      <link>https://arturo-moreno.dev/es/experience/axsis/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://arturo-moreno.dev/es/experience/axsis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Desarrollador de aplicaciones de escritorio en C#.Net</title>
+      <link>https://arturo-moreno.dev/es/experience/Epicor/</link>
+      <pubDate>Mon, 04 Feb 2013 00:00:00 -0600</pubDate>
+      
+      <guid>https://arturo-moreno.dev/es/experience/Epicor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Desarrollador Fullstack en Java</title>
+      <link>https://arturo-moreno.dev/es/experience/NetPay/</link>
+      <pubDate>Sun, 17 Jun 2012 00:00:00 -0500</pubDate>
+      
+      <guid>https://arturo-moreno.dev/es/experience/NetPay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consultor de Software en C#.Net Junior</title>
+      <link>https://arturo-moreno.dev/es/experience/definity-first/</link>
+      <pubDate>Mon, 27 Jun 2011 00:00:00 -0500</pubDate>
+      
+      <guid>https://arturo-moreno.dev/es/experience/definity-first/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

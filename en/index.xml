@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Me on title</title>
+    <link>https://arturo-moreno.dev/en/</link>
+    <description>Recent content in About Me on title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 25 Oct 2020 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://arturo-moreno.dev/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Linux</title>
+      <link>https://arturo-moreno.dev/en/skills/Development-Tools/linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/Development-Tools/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programing Languages and Frameworks</title>
+      <link>https://arturo-moreno.dev/en/skills/programminglanguages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/programminglanguages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Databases</title>
+      <link>https://arturo-moreno.dev/en/skills/databases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/databases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development Tools and Operative Systems</title>
+      <link>https://arturo-moreno.dev/en/skills/developmenttools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/developmenttools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agile Methodologies</title>
+      <link>https://arturo-moreno.dev/en/skills/methodologies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/methodologies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C# .NET</title>
+      <link>https://arturo-moreno.dev/en/skills/Programming-Languages/cnet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/Programming-Languages/cnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://arturo-moreno.dev/en/skills/Programming-Languages/java/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/Programming-Languages/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JavaScript</title>
+      <link>https://arturo-moreno.dev/en/skills/Programming-Languages/javascript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/Programming-Languages/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entity Framework</title>
+      <link>https://arturo-moreno.dev/en/skills/Programming-Languages/entityframework/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/Programming-Languages/entityframework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Springframework</title>
+      <link>https://arturo-moreno.dev/en/skills/Programming-Languages/springframework/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/Programming-Languages/springframework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angular</title>
+      <link>https://arturo-moreno.dev/en/skills/Programming-Languages/angular/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/Programming-Languages/angular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>React JS</title>
+      <link>https://arturo-moreno.dev/en/skills/Programming-Languages/reactJs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/Programming-Languages/reactJs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hibernate</title>
+      <link>https://arturo-moreno.dev/en/skills/Programming-Languages/hibernate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/Programming-Languages/hibernate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fake it Easy</title>
+      <link>https://arturo-moreno.dev/en/skills/Programming-Languages/fakeiteasy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/Programming-Languages/fakeiteasy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mockito</title>
+      <link>https://arturo-moreno.dev/en/skills/Programming-Languages/mockito/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/Programming-Languages/mockito/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Server</title>
+      <link>https://arturo-moreno.dev/en/skills/Databases/mssqlserver/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/Databases/mssqlserver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oracle</title>
+      <link>https://arturo-moreno.dev/en/skills/Databases/oracle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/Databases/oracle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PostgresSQL</title>
+      <link>https://arturo-moreno.dev/en/skills/Databases/postgresql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/Databases/postgresql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>https://arturo-moreno.dev/en/skills/Development-Tools/windows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/Development-Tools/windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Studio Code</title>
+      <link>https://arturo-moreno.dev/en/skills/Development-Tools/visualstudio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/Development-Tools/visualstudio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Code</title>
+      <link>https://arturo-moreno.dev/en/skills/Development-Tools/visualcode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/Development-Tools/visualcode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IntelliJ</title>
+      <link>https://arturo-moreno.dev/en/skills/Development-Tools/intellij/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/Development-Tools/intellij/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Management Studio</title>
+      <link>https://arturo-moreno.dev/en/skills/Development-Tools/sqlmanagement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/Development-Tools/sqlmanagement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Profiler</title>
+      <link>https://arturo-moreno.dev/en/skills/Development-Tools/sqlprofiler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/Development-Tools/sqlprofiler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Postman</title>
+      <link>https://arturo-moreno.dev/en/skills/Development-Tools/postman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/Development-Tools/postman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swagger</title>
+      <link>https://arturo-moreno.dev/en/skills/Development-Tools/swagger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/Development-Tools/swagger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scrum</title>
+      <link>https://arturo-moreno.dev/en/skills/Development-Methodologies/scrum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/Development-Methodologies/scrum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scrumban</title>
+      <link>https://arturo-moreno.dev/en/skills/Development-Methodologies/scrumban/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/Development-Methodologies/scrumban/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fedora Contributor</title>
+      <link>https://arturo-moreno.dev/en/activities/contributor/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/activities/contributor/</guid>
+      <description>I just started so I am still reading the documentation but I am already part of Fedora Mexico</description>
+    </item>
+    
+    <item>
+      <title>Fullstack .Net Software Developer</title>
+      <link>https://arturo-moreno.dev/en/experience/Arkusnexus/MindTeams/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/experience/Arkusnexus/MindTeams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coffee Lover</title>
+      <link>https://arturo-moreno.dev/en/activities/coffee/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 -0600</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/activities/coffee/</guid>
+      <description>I really love coffee so in order to know how to recognize a really good cofee, I took a course as Barista.
+I learned all fundamental espresso and coffee making skills, and how to prepare all the popular coffee house drinks to the highest standard.
+Since then I put my new knowledge to work with my new shop and espresso machine. And I stopped buying most popular coffee brandings instead I know get handcrafted coffee like Menamoro</description>
+    </item>
+    
+    <item>
+      <title>Fullstack .Net Software Developer</title>
+      <link>https://arturo-moreno.dev/en/experience/Arkusnexus/Confie/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/experience/Arkusnexus/Confie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Queer Development Group Co-Founder</title>
+      <link>https://arturo-moreno.dev/en/activities/developmentgroup/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/activities/developmentgroup/</guid>
+      <description>Queer Development (under construction)
+Since 06/25/2020
+This year a couple of friends of mine decided to start a group to become a community of people interested in the Information Technologies, so the idea is to invite any people who would like to learn or share their knowledge about the Software world. Also the purpose of this group is to share other developers how to create software that makes people of the LGBTQ+ community more inclusive.</description>
+    </item>
+    
+    <item>
+      <title>Backend Java Developer</title>
+      <link>https://arturo-moreno.dev/en/experience/Arkusnexus/Semantic/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/experience/Arkusnexus/Semantic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AspNet Software Consultant</title>
+      <link>https://arturo-moreno.dev/en/experience/axsis/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/experience/axsis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boy Scout Memeber</title>
+      <link>https://arturo-moreno.dev/en/activities/scouts/</link>
+      <pubDate>Wed, 28 Jun 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/activities/scouts/</guid>
+      <description>I was boy scout memeber of the ASMAC since 1998 to 2017. On my last years I was part of the team who is responsible of the children from 7 to 11 years old, so I really had a goo time playing with them. So I also like altruistic activities.</description>
+    </item>
+    
+    <item>
+      <title>Project Management Professional (PMP)</title>
+      <link>https://arturo-moreno.dev/en/courses/pmp/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 -0600</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/courses/pmp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Basics of Supply Chain Management (BSCM) Module</title>
+      <link>https://arturo-moreno.dev/en/courses/bscm/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/courses/bscm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scrum Master</title>
+      <link>https://arturo-moreno.dev/en/courses/scrummaster/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 -0600</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/courses/scrummaster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application .Net Developer</title>
+      <link>https://arturo-moreno.dev/en/experience/Epicor/</link>
+      <pubDate>Mon, 04 Feb 2013 00:00:00 -0600</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/experience/Epicor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fullstack Java Developer</title>
+      <link>https://arturo-moreno.dev/en/experience/NetPay/</link>
+      <pubDate>Sun, 17 Jun 2012 00:00:00 -0500</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/experience/NetPay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>.Net Jr Software Consultant </title>
+      <link>https://arturo-moreno.dev/en/experience/definity-first/</link>
+      <pubDate>Mon, 27 Jun 2011 00:00:00 -0500</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/experience/definity-first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://arturo-moreno.dev/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B.S. Information and Communication Technologies</title>
+      <link>https://arturo-moreno.dev/en/education/bachelor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/education/bachelor/</guid>
+      <description>Instituto Tecnológico de Estudios Superiores de Monterrey Campus San Luis (ITESM)</description>
+    </item>
+    
+  </channel>
+</rss>

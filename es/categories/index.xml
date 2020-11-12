@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on titulo</title>
+    <link>https://arturo-moreno.dev/es/categories/</link>
+    <description>Recent content in Categories on titulo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-mx</language>
+    <copyright>Derechos reservados © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved</copyright>
+    <lastBuildDate>Mon, 04 May 2020 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://arturo-moreno.dev/es/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Arkusnexus</title>
+      <link>https://arturo-moreno.dev/es/categories/Arkusnexus/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://arturo-moreno.dev/es/categories/Arkusnexus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://arturo-moreno.dev/es/categories/Experience/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://arturo-moreno.dev/es/categories/Experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arkusnexsus</title>
+      <link>https://arturo-moreno.dev/es/categories/Arkusnexsus/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://arturo-moreno.dev/es/categories/Arkusnexsus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Axsis</title>
+      <link>https://arturo-moreno.dev/es/categories/Axsis/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://arturo-moreno.dev/es/categories/Axsis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epicor</title>
+      <link>https://arturo-moreno.dev/es/categories/Epicor/</link>
+      <pubDate>Mon, 04 Feb 2013 00:00:00 -0600</pubDate>
+      
+      <guid>https://arturo-moreno.dev/es/categories/Epicor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NetPay</title>
+      <link>https://arturo-moreno.dev/es/categories/NetPay/</link>
+      <pubDate>Sun, 17 Jun 2012 00:00:00 -0500</pubDate>
+      
+      <guid>https://arturo-moreno.dev/es/categories/NetPay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Definity First </title>
+      <link>https://arturo-moreno.dev/es/categories/Definity-First/</link>
+      <pubDate>Mon, 27 Jun 2011 00:00:00 -0500</pubDate>
+      
+      <guid>https://arturo-moreno.dev/es/categories/Definity-First/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

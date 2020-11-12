@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lenguajes de Programacion y Frameworks on titulo</title>
+    <link>https://arturo-moreno.dev/es/skills/Programming-Languages/</link>
+    <description>Recent content in Lenguajes de Programacion y Frameworks on titulo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-mx</language>
+    <copyright>Derechos reservados © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved</copyright>
+    
+	<atom:link href="https://arturo-moreno.dev/es/skills/Programming-Languages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>C# .NET</title>
+      <link>https://arturo-moreno.dev/es/skills/Programming-Languages/cnet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/es/skills/Programming-Languages/cnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://arturo-moreno.dev/es/skills/Programming-Languages/java/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/es/skills/Programming-Languages/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JavaScript</title>
+      <link>https://arturo-moreno.dev/es/skills/Programming-Languages/javascript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/es/skills/Programming-Languages/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entity Framework</title>
+      <link>https://arturo-moreno.dev/es/skills/Programming-Languages/entityframework/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/es/skills/Programming-Languages/entityframework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Springframework</title>
+      <link>https://arturo-moreno.dev/es/skills/Programming-Languages/springframework/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/es/skills/Programming-Languages/springframework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angular</title>
+      <link>https://arturo-moreno.dev/es/skills/Programming-Languages/angular/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/es/skills/Programming-Languages/angular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>React JS</title>
+      <link>https://arturo-moreno.dev/es/skills/Programming-Languages/reactJs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/es/skills/Programming-Languages/reactJs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hibernate</title>
+      <link>https://arturo-moreno.dev/es/skills/Programming-Languages/hibernate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/es/skills/Programming-Languages/hibernate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fake it Easy</title>
+      <link>https://arturo-moreno.dev/es/skills/Programming-Languages/fakeiteasy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/es/skills/Programming-Languages/fakeiteasy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mockito</title>
+      <link>https://arturo-moreno.dev/es/skills/Programming-Languages/mockito/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/es/skills/Programming-Languages/mockito/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

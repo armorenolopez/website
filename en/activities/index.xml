@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Activities and hobbies on title</title>
+    <link>https://arturo-moreno.dev/en/activities/</link>
+    <description>Recent content in Activities and hobbies on title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 25 Oct 2020 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://arturo-moreno.dev/en/activities/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fedora Contributor</title>
+      <link>https://arturo-moreno.dev/en/activities/contributor/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/activities/contributor/</guid>
+      <description>I just started so I am still reading the documentation but I am already part of Fedora Mexico</description>
+    </item>
+    
+    <item>
+      <title>Coffee Lover</title>
+      <link>https://arturo-moreno.dev/en/activities/coffee/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 -0600</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/activities/coffee/</guid>
+      <description>I really love coffee so in order to know how to recognize a really good cofee, I took a course as Barista.
+I learned all fundamental espresso and coffee making skills, and how to prepare all the popular coffee house drinks to the highest standard.
+Since then I put my new knowledge to work with my new shop and espresso machine. And I stopped buying most popular coffee brandings instead I know get handcrafted coffee like Menamoro</description>
+    </item>
+    
+    <item>
+      <title>Queer Development Group Co-Founder</title>
+      <link>https://arturo-moreno.dev/en/activities/developmentgroup/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/activities/developmentgroup/</guid>
+      <description>Queer Development (under construction)
+Since 06/25/2020
+This year a couple of friends of mine decided to start a group to become a community of people interested in the Information Technologies, so the idea is to invite any people who would like to learn or share their knowledge about the Software world. Also the purpose of this group is to share other developers how to create software that makes people of the LGBTQ+ community more inclusive.</description>
+    </item>
+    
+    <item>
+      <title>Boy Scout Memeber</title>
+      <link>https://arturo-moreno.dev/en/activities/scouts/</link>
+      <pubDate>Wed, 28 Jun 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/activities/scouts/</guid>
+      <description>I was boy scout memeber of the ASMAC since 1998 to 2017. On my last years I was part of the team who is responsible of the children from 7 to 11 years old, so I really had a goo time playing with them. So I also like altruistic activities.</description>
+    </item>
+    
+  </channel>
+</rss>

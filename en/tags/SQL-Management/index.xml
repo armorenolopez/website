@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQL Management on title</title>
+    <link>https://arturo-moreno.dev/en/tags/SQL-Management/</link>
+    <description>Recent content in SQL Management on title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Mon, 04 May 2020 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://arturo-moreno.dev/en/tags/SQL-Management/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fullstack .Net Software Developer</title>
+      <link>https://arturo-moreno.dev/en/experience/Arkusnexus/MindTeams/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/experience/Arkusnexus/MindTeams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fullstack .Net Software Developer</title>
+      <link>https://arturo-moreno.dev/en/experience/Arkusnexus/Confie/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/experience/Arkusnexus/Confie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AspNet Software Consultant</title>
+      <link>https://arturo-moreno.dev/en/experience/axsis/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/experience/axsis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application .Net Developer</title>
+      <link>https://arturo-moreno.dev/en/experience/Epicor/</link>
+      <pubDate>Mon, 04 Feb 2013 00:00:00 -0600</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/experience/Epicor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>.Net Jr Software Consultant </title>
+      <link>https://arturo-moreno.dev/en/experience/definity-first/</link>
+      <pubDate>Mon, 27 Jun 2011 00:00:00 -0500</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/experience/definity-first/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

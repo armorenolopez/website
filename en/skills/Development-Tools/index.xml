@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development Tools on title</title>
+    <link>https://arturo-moreno.dev/en/skills/Development-Tools/</link>
+    <description>Recent content in Development Tools on title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    
+	<atom:link href="https://arturo-moreno.dev/en/skills/Development-Tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Linux</title>
+      <link>https://arturo-moreno.dev/en/skills/Development-Tools/linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/Development-Tools/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>https://arturo-moreno.dev/en/skills/Development-Tools/windows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/Development-Tools/windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Studio Code</title>
+      <link>https://arturo-moreno.dev/en/skills/Development-Tools/visualstudio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/Development-Tools/visualstudio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Code</title>
+      <link>https://arturo-moreno.dev/en/skills/Development-Tools/visualcode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/Development-Tools/visualcode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IntelliJ</title>
+      <link>https://arturo-moreno.dev/en/skills/Development-Tools/intellij/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/Development-Tools/intellij/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Management Studio</title>
+      <link>https://arturo-moreno.dev/en/skills/Development-Tools/sqlmanagement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/Development-Tools/sqlmanagement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Profiler</title>
+      <link>https://arturo-moreno.dev/en/skills/Development-Tools/sqlprofiler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/Development-Tools/sqlprofiler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Postman</title>
+      <link>https://arturo-moreno.dev/en/skills/Development-Tools/postman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/Development-Tools/postman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swagger</title>
+      <link>https://arturo-moreno.dev/en/skills/Development-Tools/swagger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturo-moreno.dev/en/skills/Development-Tools/swagger/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
